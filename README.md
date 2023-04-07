@@ -1,4 +1,4 @@
-# Sythetic Myanmar-Thai Parallel Corpus 
+# Synthetic Myanmar-Thai Parallel Corpus 
 IBM-1 model with Google Translate based Myanmar-Thai sythetic parallel corpus
 
 - [Introduction](#Introduction)
