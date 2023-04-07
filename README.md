@@ -150,3 +150,8 @@ Reference Thai Sentence: ['ฉัน', 'กำลัง', 'ดู', 'ทีว�
 Translated Sentence: ('က', 'เมื่อวาน', 'ไป', 'ကျွန်တော်', 'ทีวี')
 Translation BLEU Scores [0.029486824119076216, 0.13186908634166958, 0.05862502026550899, 0.0250530827696685, 0.04928879601851102, 0.06648804400266797]
 ```
+
+### Future Works
+- Evaluate the Google Translate's performance by means of chrF and BLEU using human translated parallel corpus especially for my-th pairs.
+- More synthetic data for other SMT models (eg. PBSMT) and NMT models.
+- Multilingual machine translation also should be done in case Google Translate is quite reliable.
