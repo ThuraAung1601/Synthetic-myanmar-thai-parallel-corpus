@@ -1,5 +1,5 @@
 # Sythetic Myanmar-Thai Parallel Corpus 
-IBM-1 model with Google Translate based Myanmar-Thai parallel corpus
+IBM-1 model with Google Translate based Myanmar-Thai sythetic parallel corpus
 
 - [Introduction](#Introduction)
 - [Corpus Development](#Corpus-Development)
