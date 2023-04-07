@@ -13,7 +13,7 @@ Myanmar-Thai parallel corpus with 18,373 sentence pairs has been generated using
 
 ## Corpus Preparation
 
-Downloaded Myanmar-Rakhine parallel data from [myPar](https://github.com/ye-kyaw-thu/myPar/tree/master/my-rk): Myanmar Parallel Corpora for Machine Translation R&D". Therefore, please sure the following citations have been there in case you use Myanmar side data.
+I downloaded Myanmar-Rakhine parallel data from [myPar](https://github.com/ye-kyaw-thu/myPar/tree/master/my-rk): Myanmar Parallel Corpora for Machine Translation R&D". Therefore, please make sure the following citations have been there in case you use Myanmar side data.
 
 - Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, "Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311. 
 
